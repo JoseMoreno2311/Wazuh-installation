@@ -1,10 +1,8 @@
-Hello everyone! If you managed to get up to this point, I believe it's because you're leap of interest at what Wazuh is capable of. Go through the step by step and feel the fabulous experience of gathering, processing, and linking real time security events. 
+Hello everyone! If you're curious about what Wazuh can do, get ready for an awesome ride in real-time security event collection, processing and linking.
 
-The architecture of Wazuh is distinguished by its flexibility and, extendibility that makes it real performer for small businesses and big organizations. Wazuh is not only an effective security solution but also is an open-source project with a unified agent and platform architecture which eliminates the previous separation of the functions. Such integration is a total fence guarding both public and private cloud infrastructures, including the local data center. 
+Wazuh's architecture is super flexible and scalable, making it perfect for businesses of all sizes. Not only is it efficient, it's also open source, and seamlessly combines agent and platform functions. This means top-notch security for public, private and cloud infrastructures.
 
-
-And here's the exciting part: Hang around as I demonstrate the installation of Wazuh and its Windows agent in quick succession. Alongside, let’s help you sail through this and encourage you to enjoy leveraging the strengths of Wazuh by exercising the appropriate cybersecurity measures. Are you all prepared to begin this adventure to the world of cybersecurity with me? Stay tuned!
-Let's open the link that contains the documentation for installing our agent.
+Now, let's dive into installing Wazuh and its Windows agent quickly. Stick around, and I'll walk you through it as I emphasize the importance of cybersecurity. Ready to get started on this cybersecurity adventure? Here we go.
 
 
 https://documentation.wazuh.com/current/deployment-options/virtual-machine/virtual-machine.html#virtual-machine-ova
